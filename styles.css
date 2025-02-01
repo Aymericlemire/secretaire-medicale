@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: #007BFF;
+    background-position: bottom;
     background-image: url('background.jpg');
     color: white;
     padding: 20px;
